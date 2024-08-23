@@ -5,25 +5,22 @@
   <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding Image" width="600"/>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=valasapallisrisaihanshitha" alt="valasapallisrisaihanshitha" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on **Construction Website**
-
-- 🌱 I’m currently learning **Back-End Development and Generative AI**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/ValasapalliSriSaiHanshitha)
-
-- 💬 Ask me about **Front-End Development, Machine Learning, Artificial Intelligence**
-
-- 📫 How to reach me **valasapallisrisaihanshitha@gmail.com**
-
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/10vCEAGkf0AG6ToeX_UR-vfuPDt5FHjNk/view?usp=drive_link)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <ul>
+      <li>🔭 I’m currently working on **Construction Website**</li>
+      <li>🌱 I’m currently learning **Back-End Development and Generative AI**</li>
+      <li>👯 I’m looking to collaborate on **Web Development Projects**</li>
+      <li>👨‍💻 All of my projects are available at <a href="https://github.com/ValasapalliSriSaiHanshitha">My GitHub</a></li>
+      <li>💬 Ask me about **Front-End Development, Machine Learning, Artificial Intelligence**</li>
+      <li>📫 How to reach me **valasapallisrisaihanshitha@gmail.com**</li>
+      <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/10vCEAGkf0AG6ToeX_UR-vfuPDt5FHjNk/view?usp=drive_link">View My Resume</a></li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Right Image" width="300"/>
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -95,4 +92,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valasapallisrisaihanshitha&show_icons=true&locale=en&layout=compact" alt="valasapallisrisaihanshitha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valasapallisrisaihanshitha&show_icons=true&locale=en" alt="valasapallisrisaihanshitha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?usernam
