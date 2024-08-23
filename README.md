@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valasapali Hanshitha</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding Image" width="600"/>
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=valasapallisrisaihanshitha" alt="valasapallisrisaihanshitha" />
-  </a> 
-</p>
-
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
     <ul>
@@ -24,7 +14,7 @@
     </ul>
   </div>
   <div>
-    <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Right Image" width="300"/>
+    <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding Image" width="300"/>
   </div>
 </div>
 
@@ -98,4 +88,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valasapallisrisaihanshitha&show_icons=true&locale=en&layout=compact" alt="valasapallisrisaihanshitha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valasapallisrisaihanshitha&show_icons=true&locale=en" alt="valasapallisrisaihanshitha"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valasapallisrisaihanshitha&show_icons=true&locale=en" alt="valasapallisrisaihanshitha" /></p>
