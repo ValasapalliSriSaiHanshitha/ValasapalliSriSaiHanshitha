@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Introduction GIF" width="600"/>
-</p>
-
-<p align="center">
   <img src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU" alt="Coding Image" width="600"/>
 </p>
 
